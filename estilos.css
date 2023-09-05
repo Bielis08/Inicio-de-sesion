@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.containeriniciosesion{
+    display: grid;
+    justify-content: center;
+}
+
+.tituloiniciarsesion{
+    font-size: 25px;
+}
+
+.containerinput{
+    display: grid;
+    justify-content: center;
+}
+
+.email{
+    display: flex;
+}
+
+.contraseña{
+    display: flex;
+}
+
+.botoniniciosesion{
+    display: flex;
+    justify-content: center;
+}
