@@ -6,26 +6,40 @@ body{
 .containeriniciosesion{
     display: grid;
     justify-content: center;
+    margin: 100px 0px;
+    background-color: black;
 }
 
 .tituloiniciarsesion{
     font-size: 25px;
+    color: white;
+    padding: 100px 150px 50px;
 }
 
 .containerinput{
     display: grid;
     justify-content: center;
+    padding: 50px 150px 100px;
 }
 
 .email{
     display: flex;
+    scale: 1.50;
+    margin-bottom: 50px;
 }
 
 .contraseña{
     display: flex;
+    scale: 1.50;
 }
 
 .botoniniciosesion{
     display: flex;
     justify-content: center;
+    padding: 50px 150px 100px;
+}
+
+.botoniniciosesion button{
+    font-size: 30px;
+    padding: 10px 30px;
 }
